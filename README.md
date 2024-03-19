@@ -1,0 +1,2 @@
+# Gemma_LoRa_Role_description
+这是一个LoRa微调gemma-2b-it模型使其可以胜任角色刻画任务示例
